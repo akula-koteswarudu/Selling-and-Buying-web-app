@@ -26,6 +26,6 @@ The owners who gave rent can keep track of their payments for ex. Whether the re
 ## Team Members
 
 - Koteswarudu akula
-- Harsha varadhan
-- Sai Sandeep
-- Rohan
+- V. Harsha varadhan
+- S. Sai Sandeep
+- Nallani Rohan rao
